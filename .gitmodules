@@ -148,7 +148,6 @@
 [submodule "repos/typescript"]
 	path = repos/typescript
 	url = https://github.com/tree-sitter/tree-sitter-typescript
-	update = none
 	ignore = dirty
 	branch = master
 [submodule "repos/pgn"]
