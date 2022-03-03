@@ -199,3 +199,9 @@
 	branch = main
 	update = none
 	ignore = dirty
+[submodule "repos/vue"]
+	path = repos/vue
+	url = https://github.com/ikatyang/tree-sitter-vue
+	branch = master
+	update = none
+	ignore = dirty
